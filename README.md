@@ -1,26 +1,23 @@
 <div align=center>
 
-<img alt="Mingwei Xie" src="./assets/avatar.png" width=100 />
+<img alt="Mingwei Xie" src="https://avatars.githubusercontent.com/u/40554571?v=4" width=100 />
 
 # Hi, this is Mingwei Xie :wave:
 
 <p>
 
-[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=bilibili%20fans&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D439734028)](https://space.bilibili.com/439734028)
-[![Zhihu](https://img.shields.io/badge/dynamic/json?color=142026&labelColor=0066ff&logo=zhihu&logoColor=white&label=zhihu%20fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dsyy11cn)](https://www.zhihu.com/people/syy11cn)
-[![Juejin](https://img.shields.io/badge/juejin-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=bytedance)](https://juejin.cn/user/4010632618185038)
-[![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/syy11cn)
+[![Juejin](https://img.shields.io/badge/juejin-%E7%99%BD%E9%9B%BE%E8%8C%AB%E8%8C%AB%E4%B8%B6-1e80ff?logo=bytedance)](https://juejin.im/user/1917147257534279)
+[![Github Stars](https://img.shields.io/github/stars/Cyan-Xmw?color=blueviolet&label=github%20stars&logo=github)](https://github.com/Cyan-Xmw)
 
 </p>
 
 <p>
 
-[![Website](https://img.shields.io/badge/personal%20website-syy11.cn-b860ff?logo=html5&logoColor=white&labelColor=red)](https://syy11.cn)
-[![Wechat Subscription Account](https://img.shields.io/badge/subscription%20account-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=wechat)](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQxNTgxNQ==&scene=124#wechat_redirect)
+[![Website](https://img.shields.io/badge/My%20Blog-blog.xmwpro.com-b860ff?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qml0ZGVmZW5kZXIgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTEuNjg1IDB2LjM1N2wxLjIzMiAxLjA0NmMxLjQ3NyAxLjIwNCAxLjY3IDEuNDM5IDEuNjcgMi41MjZWMjRoOC42NDZjNC41MzcgMCA5LjA4My0xLjYyOSA5LjA4My02Ljg0OSAwLTMuMDgyLTIuMTc0LTUuNDU4LTUuMTg2LTUuNzk3di0uMDY3YzIuNDc1LS43NDUgNC4xNjktMi41NCA0LjE2OS01LjI1MyAwLTQuMzcyLTMuNzMtNi4wMzItNy4zNDktNi4wMzJMMS42ODYgMHptNy4xNzYgMy42NjRoMy41MjRjMi4zODMgMCAzLjEyMS4zMjcgMy44NDQgMS4wMTMuNTQ4LjUyMS43OTkgMS4yMzcuODAxIDIuMDcgMCAuNzc1LS4yNjcgMS40NjYtLjgzMSAyLjAwNC0uNzA1LjY3Ni0xLjY3NCAxLjAxMS0zLjQ0MyAxLjAxMUg4Ljg2MlYzLjY2NHptMCA5Ljc1OGg0LjA5OWMzLjQ1NiAwIDUuMDg1Ljg4MSA1LjA4NSAzLjM5IDAgMy4xNTMtMy4wNTUgMy41MjYtNS4yNTYgMy41MjZIOC44NnYtNi45MTZ6Ii8+PC9zdmc+&logoColor=white&labelColor=red)](http://blog.xmwpro.com/)(https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQxNTgxNQ==&scene=124#wechat_redirect)
 
 </p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=syy11cn)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Cyan-Xmw)
 
 ## Introduction :raised_hands:
 
