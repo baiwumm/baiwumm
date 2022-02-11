@@ -64,9 +64,9 @@ I love Front End technologys. :heart:
 
 ## Analysis :point_down:
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyan-Xmw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyan-Xmw&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyan-Xmw&show_icons=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=Cyan-Xmw&theme=flat&column=7&margin-w=10)
 
