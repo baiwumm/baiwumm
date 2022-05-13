@@ -62,8 +62,6 @@ I love Front End technologys. :heart:
   
 [![Vue3-element-form](https://github-readme-stats.vercel.app/api/pin/?username=Cyan-Xmw&repo=vue3-element-form)](https://github.com/Cyan-Xmw/vue3-element-form)
 
-[![Cyan.github.io](https://github-readme-stats.vercel.app/api/pin/?username=Cyan-Xmw&repo=Cyan.github.io)](https://github.com/Cyan-Xmw/Cyan.github.io)
-
 ## Analysis :point_down:
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyan-Xmw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
