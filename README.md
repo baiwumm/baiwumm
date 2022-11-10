@@ -39,15 +39,10 @@ I love Front End technologys. :heart:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-34495e?logo=react)
-  
-</p>
-
-<p>
-
 ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node-ef3335?logo=node.js&logoColor=white&color=026e00)
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
+  
 </p>
 
 ## Project Analysis :point_down:
