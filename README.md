@@ -1,4 +1,4 @@
-# Hey, I'm 白雾茫茫丶 :wave:
+# Hey, I'm 白雾茫茫丶 🌹
 
 <p>
 
@@ -14,7 +14,7 @@
   </p>
 </p>
 
-## About Me :raised_hands:
+## About Me ☘️
 
 🎓 Graduated from the [@NOTCLOUD](https://github.com/gdgm). 
 
@@ -24,7 +24,7 @@
 
 🐎 The universe is uncertain, you and I are dark horses
 
-## Orientation :dart:
+## Orientation 🌿
 
 I love coding. :heart:
 
@@ -43,6 +43,9 @@ I love Front End technologys. :heart:
 ![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
   
 </p>
+
+## Contact Me 🌳
+<p align="center"><img src="https://cdn.baiwumm.com/app/qrcode.jpg" alt="白雾茫茫丶"></p>
 
 ## Project Analysis :point_down:
 
