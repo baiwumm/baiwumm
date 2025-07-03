@@ -1,53 +1,42 @@
-# Hey, I'm 白雾茫茫丶 🌹
+![](assets/Bottom_up.svg)
 
-<p>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./assets/image.gif" width="30px" alt=""><br>
 
-[![Juejin](https://img.shields.io/badge/juejin-%E7%99%BD%E9%9B%BE%E8%8C%AB%E8%8C%AB%E4%B8%B6-1e80ff?logo=bytedance)](https://juejin.im/user/1917147257534279)
-[![Github Stars](https://img.shields.io/github/stars/baiwumm?color=blueviolet&label=github%20stars&logo=github)](https://github.com/baiwumm)
-[![Website](https://img.shields.io/badge/My%20Blog-baiwumm.com-b860ff?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZXNtb2tlIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Qml0ZGVmZW5kZXIgaWNvbjwvdGl0bGU+PHBhdGggZD0iTTEuNjg1IDB2LjM1N2wxLjIzMiAxLjA0NmMxLjQ3NyAxLjIwNCAxLjY3IDEuNDM5IDEuNjcgMi41MjZWMjRoOC42NDZjNC41MzcgMCA5LjA4My0xLjYyOSA5LjA4My02Ljg0OSAwLTMuMDgyLTIuMTc0LTUuNDU4LTUuMTg2LTUuNzk3di0uMDY3YzIuNDc1LS43NDUgNC4xNjktMi41NCA0LjE2OS01LjI1MyAwLTQuMzcyLTMuNzMtNi4wMzItNy4zNDktNi4wMzJMMS42ODYgMHptNy4xNzYgMy42NjRoMy41MjRjMi4zODMgMCAzLjEyMS4zMjcgMy44NDQgMS4wMTMuNTQ4LjUyMS43OTkgMS4yMzcuODAxIDIuMDcgMCAuNzc1LS4yNjcgMS40NjYtLjgzMSAyLjAwNC0uNzA1LjY3Ni0xLjY3NCAxLjAxMS0zLjQ0MyAxLjAxMUg4Ljg2MlYzLjY2NHptMCA5Ljc1OGg0LjA5OWMzLjQ1NiAwIDUuMDg1Ljg4MSA1LjA4NSAzLjM5IDAgMy4xNTMtMy4wNTUgMy41MjYtNS4yNTYgMy41MjZIOC44NnYtNi45MTZ6Ii8+PC9zdmc+&logoColor=white&labelColor=red)](https://baiwumm.com/)
-![Profile View Counter](https://komarev.com/ghpvc/?username=baiwumm)
-  
+<a href="https://baiwumm.com/">
+  <img align="center" alt="个人博客" width="22px" src="./assets/home.svg" />
+</a>
+  <a href="mailto:baiwumm@foxmail.com">
+  <img align="center" alt="邮箱" width="22px" src="./assets/email.svg" />
+</a>
+<a href="https://gitee.com/baiwumm">
+  <img align="center" alt="gitee首页" width="22px" src="./assets/gitee.svg" />
+</a>
+<a href="https://github.com/baiwumm">
+  <img align="center" alt="github主页" width="22px" src="./assets/github.svg" />
+</a>
+<a href="https://juejin.im/user/1917147257534279">
+  <img align="center" alt="掘金" width="22px" src="./assets/juejin.svg" />
+</a>
 
-  
-  <p align="center">
-    Visitor count<br><img src="https://profile-counter.glitch.me/baiwumm/count.svg" />
-  </p>
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+<h1 align="center">🛠 专业技能</h1>
+
+###
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vue,react,js,ts,css,html,nextjs,prisma,nestjs&theme=light" />
 </p>
 
-## About Me ☘️
-
-🎓 Graduated from the [@NOTCLOUD](https://github.com/gdgm). 
-
-👨🏻‍💻 Aspire to become an excellent front-end engineer
-
-❤️ Like that kind of natural, natural feeling
-
-🐎 The universe is uncertain, you and I are dark horses
-
-## Orientation 🌿
-
-I love coding. :heart:
-
-I love Front End technologys. :heart:
-
-<p>
-
-![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-42b883?logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-34495e?logo=react)
-![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
-![Node](https://img.shields.io/badge/-Node-ef3335?logo=node.js&logoColor=white&color=026e00)
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-  
-</p>
 
 ## Contact Me 🌳
 <p align="center"><img src="https://cdn.baiwumm.com/app/qrcode.jpg" alt="白雾茫茫丶"></p>
 
-## Project Analysis :point_down:
+## 项目分析 :point_down:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=baiwumm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baiwumm&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
