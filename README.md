@@ -54,6 +54,9 @@
     <img src="https://skillicons.dev/icons?i=vue,react,js,ts,css,html,nextjs,prisma,nestjs,nuxtjs,nodejs&theme=light" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 
 
 <h2 align="center">🚀 我的 Github 活动 </h2>
