@@ -28,23 +28,38 @@
 
 ###
 
-<h2 align="center">🤓 关于我</h2>
+<h2 align="center">Hi，我是白雾茫茫丶 👋</h2>
 
-- 🧑 **姓名**: 谢明伟<br>
-- 👨‍💻 **职业**: 一名深漂前端程序员，在互联网深耕多年<br>
-- 🌱 **生活角色**: 父母的孩子<br>
-- 🪴 **人生目标**: 实现财务自由，吃好睡好，环游世界<br>
-- 🌲 **座右铭**: 没有收拾残局的能力 就别放纵善变的情绪
+<div align="center">
+  
+  🌊 深漂前端开发者 | 🏗️ 代码世界的建造者 | 🔥 持续学习的终身实践者<br>
+  
+我是一名扎根深圳的前端新手程序员，在互联网行业深耕多年，从最初的兴趣驱动到如今的职业探索，始终保持着对技术的敬畏与热爱<br>
+
+  擅长用 React/Vue 构建用户界面，对 工程化 和 性能优化 充满好奇，正在向「更优雅的代码」和「更高效的协作」方向努力<br>
+  
+  **“代码是写给人看的，只是顺便让机器能运行”**<br>
+  
+  **希望我的代码能像热带气候一样——永远热情，偶尔风暴 🌪️**<br>
+</div>
 
 ###
 
 <h2 align="center">📖 博客热门文章</h2>
 
-- [Certimate + Let’s Encrypt：零干预的 HTTPS 永续方案](https://baiwumm.com/archives/BPGShzmO)
-- [uni-halo + 微信小程序开发实录：我的第一个作品诞生记](https://baiwumm.com/archives/n28R84GE)
-- [2025年中复盘：从代码到肠镜，我的跨界学习之旅](https://baiwumm.com/archives/8btsardH)
-- [前端的全栈之路：基于 Vue3 + Nest.js 全栈开发的后台应用](https://baiwumm.com/archives/aoFutVQn)
-- [基于 Next.js 的今日热门榜单平台](https://baiwumm.com/archives/BnH169OX)
+<div align="center">
+  
+[Certimate + Let’s Encrypt：零干预的 HTTPS 永续方案](https://baiwumm.com/archives/BPGShzmO)
+
+[uni-halo + 微信小程序开发实录：我的第一个作品诞生记](https://baiwumm.com/archives/n28R84GE)
+
+[2025年中复盘：从代码到肠镜，我的跨界学习之旅](https://baiwumm.com/archives/8btsardH)
+
+[前端的全栈之路：基于 Vue3 + Nest.js 全栈开发的后台应用](https://baiwumm.com/archives/aoFutVQn)
+
+[基于 Next.js 的今日热门榜单平台](https://baiwumm.com/archives/BnH169OX)
+ 
+</div>
 
 ###
 
@@ -82,6 +97,8 @@
 ###
 
 <h2 align="center">📊 代码统计</h2>
+
+<div align="center">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20mins-blue)
@@ -144,6 +161,8 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 04/07/2025 01:37:24 UTC
 <!--END_SECTION:waka-->
+
+</div>
 
 <div align="center">
   <img src="./assets/Bottom_down.svg"  />
