@@ -54,6 +54,31 @@
     <img src="https://skillicons.dev/icons?i=vue,react,js,ts,css,html,nextjs,prisma,nestjs,nuxtjs,nodejs&theme=light" />
 </p>
 
+### 
+
+<h2 align="center">🚀 我的 Github 活动 </h2>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/baiwumm/baiwumm/output/github-contribution-grid-snake.svg" alt="baiwumm's github activity graph" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baiwumm&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+</p>
+
+###
+
+<h2 align="center">✨ Github Starts </h2>
+
+<div align="center">
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baiwumm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baiwumm&layout=compact&theme=buefy&hide_border=true) |
+|:---:|:---:|
+
+![](https://github-profile-trophy.vercel.app/?username=baiwumm&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
+
+</div>
+
 ###
 
 <h2 align="center">📊 每天写代码的统计</h2>
@@ -119,31 +144,6 @@ JavaScript               1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 04/07/2025 01:37:24 UTC
 <!--END_SECTION:waka-->
-
-### 
-
-<h2 align="center">🚀 我的 Github 活动 </h2>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/baiwumm/baiwumm/output/github-contribution-grid-snake.svg" alt="baiwumm's github activity graph" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baiwumm&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
-</p>
-
-###
-
-<h2 align="center">✨ Github Starts </h2>
-
-<div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baiwumm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baiwumm&layout=compact&theme=buefy&hide_border=true) |
-|:---:|:---:|
-
-![](https://github-profile-trophy.vercel.app/?username=baiwumm&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
-
-</div>
 
 <div align="center">
   <img src="./assets/Bottom_down.svg"  />
