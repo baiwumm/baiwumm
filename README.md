@@ -54,6 +54,10 @@
     <img src="https://skillicons.dev/icons?i=vue,react,js,ts,css,html,nextjs,prisma,nestjs,nuxtjs,nodejs&theme=light" />
 </p>
 
+###
+
+<h2 align="center">📊 每天写代码的统计</h2>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
