@@ -81,7 +81,7 @@
 
 ###
 
-<h2 align="center">📊 每天写代码的统计</h2>
+<h2 align="center">📊 代码统计</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-15%20mins-blue)
