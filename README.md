@@ -94,7 +94,7 @@
 
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baiwumm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baiwumm&layout=compact&theme=buefy&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baiwumm&show_icons=true&include_all_commits=true&theme=vue&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baiwumm&theme=vue&hide_border=true) |
 |:---:|:---:|
 
 ![](https://github-profile-trophy.vercel.app/?username=baiwumm&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true)
