@@ -15,8 +15,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: zh
           SHOW_LINES_OF_CODE: "True" # 显示截至日期写入的代码行数
-          SHOW_LOC_CHART: "False" # 年份不同季度编写的代码行数
-          SHOW_SHORT_INFO: "False" # 用户的简短趣闻信息
+          SHOW_LOC_CHART: "True" # 年份不同季度编写的代码行数
+          SHOW_SHORT_INFO: "True" # 用户的简短趣闻信息
           SHOW_OS: "True" # 显示系统
           SHOW_PROJECTS: "True" # 显示项目
           SHOW_TOTAL_CODE_TIME: "True" # 显示总编码时间
