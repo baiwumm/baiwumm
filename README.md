@@ -4,21 +4,24 @@
 
 <h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./assets/image.gif" width="30px" alt=""><br>
 
+<div align="center">
 <a href="https://baiwumm.com/">
-  <img align="center" alt="个人博客" width="26px" src="./assets/home.svg" />
+  <img  alt="个人博客" width="26px" src="./assets/home.svg" />
 </a>
   <a href="mailto:baiwumm@foxmail.com">
-  <img align="center" alt="邮箱" width="26px" src="./assets/email.svg" />
+  <img  alt="邮箱" width="26px" src="./assets/email.svg" />
 </a>
 <a href="https://gitee.com/baiwumm">
-  <img align="center" alt="gitee首页" width="26px" src="./assets/gitee.svg" />
+  <img  alt="gitee首页" width="26px" src="./assets/gitee.svg" />
 </a>
 <a href="https://github.com/baiwumm">
-  <img align="center" alt="github主页" width="26px" src="./assets/github.svg" />
+  <img  alt="github主页" width="26px" src="./assets/github.svg" />
 </a>
 <a href="https://juejin.im/user/1917147257534279">
-  <img align="center" alt="掘金" width="26px" src="./assets/juejin.svg" />
+  <img  alt="掘金" width="26px" src="./assets/juejin.svg" />
 </a>
+</div>
+
 
 ###
 
@@ -74,11 +77,15 @@
 <h2 align="center">🚀 我的 Github 活动 </h2>
 
 <p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baiwumm&theme=vue" alt="baiwumm's profile-summary-cards"  />
+</p>
+
+<p align="center">
     <img src="https://raw.githubusercontent.com/baiwumm/baiwumm/output/github-contribution-grid-snake.svg" alt="baiwumm's github activity graph" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baiwumm&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baiwumm&theme=github-light&custom_title=Activity&radius=30&height=250" alt="Activity">
 </p>
 
 ###
