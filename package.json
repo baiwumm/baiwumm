@@ -1,0 +1,28 @@
+{
+  "name": "baiwumm",
+  "version": "1.0.0",
+  "description": "baiwumm profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiwumm/baiwumm.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "baiwumm",
+    "email": "baiwumm@foxmail.com",
+    "url": "https://baiwumm.com"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/baiwumm/baiwumm/issues"
+  },
+  "homepage": "https://github.com/baiwumm",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

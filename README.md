@@ -53,29 +53,479 @@
 <details open>
 <summary>点击折叠</summary>
 
-<div align="center">
+<!-- RSS_CARDS_START -->
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/0">
-<img src="https://rss-article.baiwumm.com/rss/0" />
-</a>
+<svg fill="none" width="100%" height="100%" viewBox="0 0 1000 140" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: sans-serif;
+        }
+        @keyframes gradientBackground {
+          0% {
+            background-position-x: 0%;
+          }
+          100% {
+            background-position-x: 100%;
+          }
+        }
+        .flex {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          height: 100%;
+        }
+        .outer-container {
+          width: 100%;
+          height: 100%;
+          min-height: 140px;
+        }
+        .container {
+          height: 100%;
+          width: 100%;
+          border: 1px solid rgba(0,0,0,.2);
+          padding: 10px 20px;
+          border-radius: 10px;
+          background: rgb(255,255,255);
+          background: linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%);
+          background-size: 600% 400%;
+          animation: gradientBackground 3s ease infinite;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        img {
+          margin-right: 10px;
+          width: 150px;
+          height: 100%;
+          min-height: 98px;
+          object-fit: cover;
+        }
+        .right {
+          flex: 1;
+          min-width: 0;
+        }
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        p {
+          line-height: 1.5;
+          color: #555;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
+        h3 {
+          color: #333;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        small {
+          color: #888;
+          display: block;
+          margin-top: 5px;
+          margin-bottom: 8px;
+        }
+      </style>
+      <div class="outer-container flex">
+        <a class="container flex" href="https://baiwumm.com/archives/BPGShzmO" target="_blank">
+          <img src="https://cdn.baiwumm.com/covers/article/i0edvqsjg9m9v8k3erlc45k9dztss1e0.png"/>
+          <div class="right">
+            <h3>Certimate + Let’s Encrypt：零干预的 HTTPS 永续方案</h3>
+            <small>2025年7月2日 16:13</small>
+            <p>这篇文章介绍了HTTPS在互联网中的重要性以及手动续签SSL证书的痛点，如频繁操作、易出错和安全风险。随后讨论了自动化续签工具如Certbot、Certimate和acme.sh的功能对比，强调了自动化管理的优势，并重点介绍了Certimate如何解决这些问题。</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/1">
-<img src="https://rss-article.baiwumm.com/rss/1" />
-</a>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/2">
-<img src="https://rss-article.baiwumm.com/rss/2" />
-</a>
+<svg fill="none" width="100%" height="100%" viewBox="0 0 1000 140" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: sans-serif;
+        }
+        @keyframes gradientBackground {
+          0% {
+            background-position-x: 0%;
+          }
+          100% {
+            background-position-x: 100%;
+          }
+        }
+        .flex {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          height: 100%;
+        }
+        .outer-container {
+          width: 100%;
+          height: 100%;
+          min-height: 140px;
+        }
+        .container {
+          height: 100%;
+          width: 100%;
+          border: 1px solid rgba(0,0,0,.2);
+          padding: 10px 20px;
+          border-radius: 10px;
+          background: rgb(255,255,255);
+          background: linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%);
+          background-size: 600% 400%;
+          animation: gradientBackground 3s ease infinite;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        img {
+          margin-right: 10px;
+          width: 150px;
+          height: 100%;
+          min-height: 98px;
+          object-fit: cover;
+        }
+        .right {
+          flex: 1;
+          min-width: 0;
+        }
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        p {
+          line-height: 1.5;
+          color: #555;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
+        h3 {
+          color: #333;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        small {
+          color: #888;
+          display: block;
+          margin-top: 5px;
+          margin-bottom: 8px;
+        }
+      </style>
+      <div class="outer-container flex">
+        <a class="container flex" href="https://baiwumm.com/archives/n28R84GE" target="_blank">
+          <img src="https://cdn.baiwumm.com/covers/article/mr7cbpwcziwrqxwfc8q2em4ctz21a58b.png"/>
+          <div class="right">
+            <h3>uni-halo + 微信小程序开发实录：我的第一个作品诞生记</h3>
+            <small>2025年7月1日 14:03</small>
+            <p>这篇文章介绍了使用uni-halo框架进行微信小程序开发的过程，包括选择该框架的原因、开发目标以及项目配置和部署的步骤。</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/3">
-<img src="https://rss-article.baiwumm.com/rss/3" />
-</a>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/4">
-<img src="https://rss-article.baiwumm.com/rss/4" />
-</a>
- 
-</div>
+<svg fill="none" width="100%" height="100%" viewBox="0 0 1000 140" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: sans-serif;
+        }
+        @keyframes gradientBackground {
+          0% {
+            background-position-x: 0%;
+          }
+          100% {
+            background-position-x: 100%;
+          }
+        }
+        .flex {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          height: 100%;
+        }
+        .outer-container {
+          width: 100%;
+          height: 100%;
+          min-height: 140px;
+        }
+        .container {
+          height: 100%;
+          width: 100%;
+          border: 1px solid rgba(0,0,0,.2);
+          padding: 10px 20px;
+          border-radius: 10px;
+          background: rgb(255,255,255);
+          background: linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%);
+          background-size: 600% 400%;
+          animation: gradientBackground 3s ease infinite;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        img {
+          margin-right: 10px;
+          width: 150px;
+          height: 100%;
+          min-height: 98px;
+          object-fit: cover;
+        }
+        .right {
+          flex: 1;
+          min-width: 0;
+        }
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        p {
+          line-height: 1.5;
+          color: #555;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
+        h3 {
+          color: #333;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        small {
+          color: #888;
+          display: block;
+          margin-top: 5px;
+          margin-bottom: 8px;
+        }
+      </style>
+      <div class="outer-container flex">
+        <a class="container flex" href="https://baiwumm.com/archives/8btsardH" target="_blank">
+          <img src="https://cdn.baiwumm.com/covers/article/jgy3s7oq73yuk7r2n5jffl6kivtmcmbn.png"/>
+          <div class="right">
+            <h3>2025年中复盘：从代码到肠镜，我的跨界学习之旅</h3>
+            <small>2025年6月30日 15:48</small>
+            <p>这篇文章介绍了作者在2025年上半年因为疾病而经历的生活转变，从原本的前端开发者变成了需要学习和应对自己健康问题的“医疗前端”开发者，通过这段经历对“成长”有了新的定义和体会。</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+
+<svg fill="none" width="100%" height="100%" viewBox="0 0 1000 140" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: sans-serif;
+        }
+        @keyframes gradientBackground {
+          0% {
+            background-position-x: 0%;
+          }
+          100% {
+            background-position-x: 100%;
+          }
+        }
+        .flex {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          height: 100%;
+        }
+        .outer-container {
+          width: 100%;
+          height: 100%;
+          min-height: 140px;
+        }
+        .container {
+          height: 100%;
+          width: 100%;
+          border: 1px solid rgba(0,0,0,.2);
+          padding: 10px 20px;
+          border-radius: 10px;
+          background: rgb(255,255,255);
+          background: linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%);
+          background-size: 600% 400%;
+          animation: gradientBackground 3s ease infinite;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        img {
+          margin-right: 10px;
+          width: 150px;
+          height: 100%;
+          min-height: 98px;
+          object-fit: cover;
+        }
+        .right {
+          flex: 1;
+          min-width: 0;
+        }
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        p {
+          line-height: 1.5;
+          color: #555;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
+        h3 {
+          color: #333;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        small {
+          color: #888;
+          display: block;
+          margin-top: 5px;
+          margin-bottom: 8px;
+        }
+      </style>
+      <div class="outer-container flex">
+        <a class="container flex" href="https://baiwumm.com/archives/5FAio6Td" target="_blank">
+          <img src="https://cdn.baiwumm.com/covers/article/p4k6wjq3z9zdu4rkydeu3wjr3nikxw6d.png"/>
+          <div class="right">
+            <h3>当免疫系统叛变时，一个 IBD 患者的独白</h3>
+            <small>2025年6月27日 09:49</small>
+            <p>这篇文章介绍了IBD患者在免疫系统异常后经历的长期求医过程，包括初期症状、多次就诊和检查，最终在医院确诊为升结肠溃疡伴狭窄，揭示了病情的复杂性。</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+
+<svg fill="none" width="100%" height="100%" viewBox="0 0 1000 140" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: sans-serif;
+        }
+        @keyframes gradientBackground {
+          0% {
+            background-position-x: 0%;
+          }
+          100% {
+            background-position-x: 100%;
+          }
+        }
+        .flex {
+          display: flex;
+          align-items: center;
+          width: 100%;
+          height: 100%;
+        }
+        .outer-container {
+          width: 100%;
+          height: 100%;
+          min-height: 140px;
+        }
+        .container {
+          height: 100%;
+          width: 100%;
+          border: 1px solid rgba(0,0,0,.2);
+          padding: 10px 20px;
+          border-radius: 10px;
+          background: rgb(255,255,255);
+          background: linear-gradient(60deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 47%, rgba(246,246,246,1) 50%, rgba(255,255,255,1) 53%, rgba(255,255,255,1) 100%);
+          background-size: 600% 400%;
+          animation: gradientBackground 3s ease infinite;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+        img {
+          margin-right: 10px;
+          width: 150px;
+          height: 100%;
+          min-height: 98px;
+          object-fit: cover;
+        }
+        .right {
+          flex: 1;
+          min-width: 0;
+        }
+        a {
+          text-decoration: none;
+          color: inherit;
+        }
+        p {
+          line-height: 1.5;
+          color: #555;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+        }
+        h3 {
+          color: #333;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+        small {
+          color: #888;
+          display: block;
+          margin-top: 5px;
+          margin-bottom: 8px;
+        }
+      </style>
+      <div class="outer-container flex">
+        <a class="container flex" href="https://baiwumm.com/archives/2Zef42jc" target="_blank">
+          <img src="https://cdn.baiwumm.com/covers/article/py0gt1bhjr4yebrrtdvgreo3uw30uuqx.jpg"/>
+          <div class="right">
+            <h3>夕阳之歌：梅艳芳用生命燃烧的绝唱，一场永不过期的告别</h3>
+            <small>2025年6月9日 17:06</small>
+            <p>在病入膏肓、身体极度孱弱又穿戴着沉重的演出服的情况下，她的声线已经是沙哑颤抖地难以控制，这首歌能完成至如此水平，真是个奇迹，歌声中满是沧桑、坚毅与不舍。不愧为女中豪杰，令人敬佩亦扼腕</p>
+          </div>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
+
+<!-- RSS_CARDS_END -->
 </details>
 
 ###
