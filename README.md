@@ -55,23 +55,23 @@
 
 <div align="center">
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/0">
+<a target="_blank" href="https://rss-article.baiwumm.com/url/0">
 <img src="https://rss-article.baiwumm.com/rss/0" />
 </a>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/1">
+<a target="_blank" href="https://rss-article.baiwumm.com/url/1">
 <img src="https://rss-article.baiwumm.com/rss/1" />
 </a>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/2">
+<a target="_blank" href="https://rss-article.baiwumm.com/url/2">
 <img src="https://rss-article.baiwumm.com/rss/2" />
 </a>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/3">
+<a target="_blank" href="https://rss-article.baiwumm.com/url/3">
 <img src="https://rss-article.baiwumm.com/rss/3" />
 </a>
 
-<a target="_blank" href="https://rss-article.baiwumm.com/rss/4">
+<a target="_blank" href="https://rss-article.baiwumm.com/url/4">
 <img src="https://rss-article.baiwumm.com/rss/4" />
 </a>
  
