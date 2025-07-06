@@ -50,6 +50,9 @@
 
 <h2 align="center">📖 博客近期文章</h2>
 
+<details open>
+<summary>点击折叠</summary>
+
 <div align="center">
 
 <img src="https://rss-article.baiwumm.com/rss/0" />
@@ -63,6 +66,7 @@
 <img src="https://rss-article.baiwumm.com/rss/4" />
  
 </div>
+</details>
 
 ###
 
