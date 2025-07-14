@@ -8,7 +8,7 @@
 <a href="https://baiwumm.com/">
   <img  alt="个人博客" width="26px" src="./assets/home.svg" />
 </a>
-  <a href="mailto:baiwumm@foxmail.com">
+  <a href="mailto:me@baiwumm.com">
   <img  alt="邮箱" width="26px" src="./assets/email.svg" />
 </a>
 <a href="https://gitee.com/baiwumm">
