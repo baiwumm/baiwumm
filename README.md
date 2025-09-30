@@ -7,23 +7,29 @@
 <br>
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px; align-items:center;">
 <a href="https://baiwumm.com/">
-  <img  alt="个人博客" width="26px" src="./assets/home.svg" style="transition: transform 0.2s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
+  <img  alt="个人博客" width="30px" src="./assets/home.svg" style="transition: transform 0.2s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
 </a>
   <a href="mailto:me@baiwumm.com">
-  <img  alt="邮箱" width="26px" src="./assets/email.svg" style="transition: transform 0.2s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
+  <img  alt="邮箱" width="30px" src="./assets/email.svg" style="transition: transform 0.2s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://gitee.com/baiwumm">
-  <img  alt="gitee首页" width="26px" src="./assets/gitee.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
+  <img  alt="gitee首页" width="30px" src="./assets/gitee.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://github.com/baiwumm">
-  <img  alt="github主页" width="26px" src="./assets/github.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
+  <img  alt="github主页" width="30px" src="./assets/github.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://juejin.im/user/1917147257534279">
-  <img  alt="掘金" width="26px" src="./assets/juejin.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
+  <img  alt="掘金" width="30px" src="./assets/juejin.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://www.zhihu.com/people/baiwumm">
-  <img  alt="知乎" width="26px" src="./assets/zhihu.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
+  <img  alt="知乎" width="30px" src="./assets/zhihu.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -44,12 +50,6 @@
     </td>
   </tr>
 </table>
-
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
 
