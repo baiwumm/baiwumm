@@ -2,26 +2,52 @@
   <img src="./assets/Bottom_up.svg"  />
 </div>
 
-<h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./assets/image.gif" width="30px" alt=""><br>
-
-<div align="center">
+<h2 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜></𝚌𝚘𝚍𝚎𝚛𝚜>! <img src="./assets/image.gif" width="30px" alt="">
+<br>
+<br>
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px; align-items:center;">
 <a href="https://baiwumm.com/">
-  <img  alt="个人博客" width="26px" src="./assets/home.svg" />
+  <img  alt="个人博客" width="26px" src="./assets/home.svg" style="transition: transform 0.2s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';" />
 </a>
   <a href="mailto:me@baiwumm.com">
-  <img  alt="邮箱" width="26px" src="./assets/email.svg" />
+  <img  alt="邮箱" width="26px" src="./assets/email.svg" style="transition: transform 0.2s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://gitee.com/baiwumm">
-  <img  alt="gitee首页" width="26px" src="./assets/gitee.svg" />
+  <img  alt="gitee首页" width="26px" src="./assets/gitee.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://github.com/baiwumm">
-  <img  alt="github主页" width="26px" src="./assets/github.svg" />
+  <img  alt="github主页" width="26px" src="./assets/github.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 <a href="https://juejin.im/user/1917147257534279">
-  <img  alt="掘金" width="26px" src="./assets/juejin.svg" />
+  <img  alt="掘金" width="26px" src="./assets/juejin.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
+</a>
+<a href="https://www.zhihu.com/people/baiwumm">
+  <img  alt="知乎" width="26px" src="./assets/zhihu.svg" style="transition: transform 0.35s;"  onmouseover="this.style.transform='scale(1.2)';" onmouseout="this.style.transform='scale(1)';"  />
 </a>
 </div>
 
+###
+
+<p style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
+  <span style="display:inline-block; text-align:center;">
+    <img src="./assets/wechat.jpg" alt="微信二维码" width="150" style="border-radius:12px; transition: transform 0.35s, box-shadow 0.2s;padding:5px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/><br/>
+    微信
+  </span>
+  <span style="display:inline-block; text-align:center;">
+    <img src="./assets/wechatOA.jpg" alt="公众号二维码" width="150" style="border-radius:12px; transition: transform 0.35s, box-shadow 0.2s;padding:5px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/><br/>
+    微信公众号
+  </span>
+  <span style="display:inline-block; text-align:center;">
+    <img src="./assets/app.jpg" alt="小程序二维码" width="150" style="border-radius:12px; transition: transform 0.35s, box-shadow 0.2s;padding:5px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"
+         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/><br/>
+    微信小程序
+  </span>
+</p>
 
 ###
 
