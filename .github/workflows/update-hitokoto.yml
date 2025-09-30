@@ -1,0 +1,27 @@
+name: Update Hitokoto
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天 UTC 0 点触发
+  workflow_dispatch: {} # 可手动触发
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch
+
+      - name: Update Gist
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # 个人或仓库 token
+        run: node update-hitokoto.js

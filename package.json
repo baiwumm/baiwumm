@@ -1,0 +1,25 @@
+{
+  "name": "baiwumm",
+  "version": "1.0.0",
+  "description": "welcome to my profile!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiwumm/baiwumm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiwumm/baiwumm/issues"
+  },
+  "homepage": "https://github.com/baiwumm/baiwumm#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-fetch": "^3.3.2"
+  }
+}
