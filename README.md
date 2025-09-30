@@ -28,26 +28,22 @@
 
 ###
 
-<p style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; align-items:center;">
-  <span style="display:inline-block; text-align:center;">
-    <img src="./assets/wechat.jpg" alt="微信二维码" width="150" style="border-radius:12px; transition: transform 0.35s, box-shadow 0.2s;padding:5px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"
-         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/><br/>
-    微信
-  </span>
-  <span style="display:inline-block; text-align:center;">
-    <img src="./assets/wechatOA.jpg" alt="公众号二维码" width="150" style="border-radius:12px; transition: transform 0.35s, box-shadow 0.2s;padding:5px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"
-         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/><br/>
-    微信公众号
-  </span>
-  <span style="display:inline-block; text-align:center;">
-    <img src="./assets/app.jpg" alt="小程序二维码" width="150" style="border-radius:12px; transition: transform 0.35s, box-shadow 0.2s;padding:5px;box-shadow:0 4px 8px rgba(0,0,0,0.2)"
-         onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.3)';"
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/><br/>
-    微信小程序
-  </span>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/wechat.jpg" alt="微信二维码" width="180" style="border-radius:12px; padding:5px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+      <br/>微信
+    </td>
+    <td align="center">
+      <img src="./assets/wechatOA.jpg" alt="公众号二维码" width="180" style="border-radius:12px; padding:5px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+      <br/>微信公众号
+    </td>
+    <td align="center">
+      <img src="./assets/app.jpg" alt="小程序二维码" width="180" style="border-radius:12px; padding:5px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+      <br/>微信小程序
+    </td>
+  </tr>
+</table>
 
 ###
 
