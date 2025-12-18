@@ -121,7 +121,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baiwumm&theme=github-light&custom_title=Activity&radius=30&height=250" alt="Activity">
+    <img src="https://github-readme-activity-graph.baiwumm.com/graph?username=baiwumm&theme=github-light&custom_title=Activity&radius=30&height=250" alt="Activity">
 </p>
 
 ###
