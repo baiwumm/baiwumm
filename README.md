@@ -113,7 +113,7 @@
 <h2 align="center">🚀 我的 Github 活动 </h2>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baiwumm&theme=vue" alt="baiwumm's profile-summary-cards"  />
+  <img src="http://github-profile-summary-cards.baiwumm.com/api/cards/profile-details?username=baiwumm&theme=vue" alt="baiwumm's profile-summary-cards"  />
 </p>
 
 <p align="center">
