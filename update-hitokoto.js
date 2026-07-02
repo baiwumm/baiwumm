@@ -7,7 +7,7 @@ const GIST_ID = "affd7cb848230b61febf54339a26bfae"; // 从 Secrets 读取
 const TOKEN = process.env.GH_TOKEN; // 从 Secrets 读取
 
 async function getHitokoto() {
-  const res = await fetch("https://api.baiwumm.com/api/hitokoto?format=text");
+  const res = await fetch("https://v1.hitokoto.cn/?encode=text");
   return await res.text();
 }
 
