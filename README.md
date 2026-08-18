@@ -13,9 +13,9 @@ Currently working with:
 <p align="center">
   <samp>
     <a href="https://baiwumm.com">website</a> .
-    <a href="https://baiwumm.com/authors/admin">about</a> .
-    <a href="https://baiwumm.com/categories/read">read</a> .
-    <a href="https://baiwumm.com/moments">moments</a> .
+    <a href="https://baiwumm.com/about">about</a> .
+    <a href="https://baiwumm.com/posts">posts</a> .
+    <a href="https://baiwumm.com/projects">projects</a> .
     <a href="mailto:me@baiwumm.com">email</a>
   </samp>
 </p>
